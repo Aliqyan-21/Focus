@@ -2,6 +2,8 @@
 
 Focus is a command-line interface (CLI) based code editor designed for simplicity and efficiency. It offers essential features for text editing, syntax highlighting, Search feature and file management.
 
+<img src="focus.gif" alt="Gif Video"/>
+
 ## Features
 
 -  **User-Friendly:** Focus provides a clean and intuitive interface suitable for both beginners and experienced users.
@@ -52,9 +54,7 @@ Use the provided build scripts for your operating system:
 		```
 		$ ./uninstall.sh
 		```
-<br>
 <hr>
-<br>
 		
  - **For Windows:**
 
@@ -62,4 +62,4 @@ Use the provided build scripts for your operating system:
 
 	Working on it so that it works well on windows too without any extra downloadings.
 
-	_Until then enjoy focus on linux!_
+	_Until then enjoy **focus** on linux!_
