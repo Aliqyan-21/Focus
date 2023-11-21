@@ -13,6 +13,6 @@ WRAPPER_NAME="Focus_wrapper.sh"
 sudo rm -rf "/usr/local/bin/${EXEC_NAME}"
 
 # Remove the shared library, object file, and wrapper script
-rm -rf "${CODE_DIR}/${LIB_NAME}" "${CODE_DIR}/${EXEC_NAME}.o" "${CODE_DIR}/${WRAPPER_NAME}"
+rm -rf "${CODE_DIR}/${LIB_NAME}" "${CODE_DIR}/${EXEC_NAME}.o" "${CODE_DIR}/${WRAPPER_NAME}" "${CODE_DIR}/${EXEC_NAME}"
 
 echo "Uninstall completed."
