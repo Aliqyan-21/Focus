@@ -2,7 +2,7 @@
 
 Focus is a command-line interface (CLI) based code editor designed for simplicity and efficiency. It offers essential features for text editing, syntax highlighting, Search feature and file management.
 
-<img src="focus.gif" alt="Gif Video"/>
+<img src="focus.gif"/>
 
 ## Features
 
